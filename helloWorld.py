@@ -1,3 +1,3 @@
 
-# Printing "Hello World!"
+# Printing
 print("Git is Awesome!")
